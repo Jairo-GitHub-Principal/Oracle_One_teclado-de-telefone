@@ -1,6 +1,10 @@
 # projeto alura oracle
 
 ## teclado de telefone criado com html css e js
+
+## imagem do projeto:
+
+!(https://github.com/Jairo-GitHub-Principal/teclado-de-telefone/blob/master/imagem/Screenshot_2.png?raw=true)
 <br>
 ## codigo do projeto
 <br>
